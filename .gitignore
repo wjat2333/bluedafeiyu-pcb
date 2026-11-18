@@ -1,0 +1,17 @@
+# 系统 / 编辑器
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+.vscode/
+.idea/
+
+# 嘉立创EDA 自动备份 / 临时文件
+*.bak
+*_autosave*
+~$*
+
+# 核心产物必须入库，防止被通用规则误伤
+!*.epro2
+!Gerber_*.zip
