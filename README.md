@@ -104,10 +104,17 @@ NFC 部分基于 **NT3H2111W0FHKH**（NXP NTAG I2C plus 系列，13.56 MHz，XQF
 ├─ 预览/
 │  ├─ 有NFC版本-正面.jpg
 │  └─ 有NFC版本-背面.jpg
+├─ 原图/                                            # 插画原图，可直接下载
+│  ├─ 宝宝好可爱.jpg
+│  ├─ 带NFC字符.jpg
+│  └─ 乖巧但吃得多.jpg
 ├─ .gitignore
 ├─ LICENSE                                          # CC BY-NC-SA 4.0
 └─ README.md
 ```
+
+> 🖼️ **原图下载**：`原图/` 目录存放三张插画原图，可直接下载用于二次创作——
+> `宝宝好可爱.jpg`（正面）、`带NFC字符.jpg`（背面，含「NFC」字样）、`乖巧但吃得多.jpg`（背面，无 NFC 字样）。
 
 ### Gerber 包内容
 
